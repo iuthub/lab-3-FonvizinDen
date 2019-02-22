@@ -1,0 +1,38 @@
+body{
+	background-image: url("http://gif-animashki.ru/images/animaciya_144.gif");
+	align-content: center;
+}
+
+#test5{
+	border: 10px white solid;
+	background-color: white;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+#test1 {
+	/* border: 5px orange solid; */
+    font-size: 14pt;
+} 
+
+#test2 { 
+	/*border: 5px red solid;*/
+	background-color:  #A8F0F0;
+	text-align: right;
+}
+
+.test3 {
+    border: 4px #C2E9E9 solid; 
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.test4 {
+    border-bottom: 2px blue dashed; 
+}
+
+img{
+	float: right;
+}
